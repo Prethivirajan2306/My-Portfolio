@@ -49,8 +49,237 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prethivirajan L | Portfolio</title>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>Prethivirajan L</h1>
+        <p>B.E. Computer Science Engineering Student</p>
+
+        <!-- NAVIGATION -->
+        <nav>
+            <a href="#home">Home</a> |
+            <a href="#about">About</a> |
+            <a href="#skills">Skills</a> |
+            <a href="#projects">Projects</a> |
+            <a href="#education">Education</a> |
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!-- HOME SECTION -->
+    <section id="home">
+        <h2>Hello, I'm Prethivirajan L!</h2>
+
+        <h3>Aspiring Software Developer</h3>
+
+        <img src="images/profile.jpg"
+             alt="Prethivirajan L Profile Photo"
+             width="300">
+
+        <p>
+            Welcome to my personal portfolio. I am a Computer Science
+            Engineering student passionate about software development,
+            programming and artificial intelligence.
+        </p>
+
+        <p>
+            I enjoy learning new technologies and developing
+            innovative solutions to real-world problems.
+        </p>
+
+        <a href="#projects">Explore My Projects</a>
+    </section>
+
+    <hr>
+
+    <!-- ABOUT SECTION -->
+    <section id="about">
+        <h2>About Me</h2>
+
+        <p>
+            I am Prethivirajan L, currently pursuing my third year
+            of Bachelor of Engineering in Computer Science and
+            Engineering at Saveetha Engineering College.
+        </p>
+
+        <p>
+            I am interested in Java programming, Data Structures,
+            Web Development and Artificial Intelligence.
+            I continuously work on improving my technical and
+            problem-solving skills.
+        </p>
+
+        <h3>Career Objective</h3>
+
+        <p>
+            To become a skilled software developer by applying
+            my programming knowledge, learning emerging
+            technologies and contributing to meaningful projects.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- SKILLS SECTION -->
+    <section id="skills">
+        <h2>Technical Skills</h2>
+
+        <h3>Programming Languages</h3>
+        <ul>
+            <li>Java</li>
+            <li>Python</li>
+            <li>JavaScript</li>
+        </ul>
+
+        <h3>Web Technologies</h3>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+
+        <h3>Tools and Technologies</h3>
+        <ul>
+            <li>Visual Studio Code</li>
+            <li>Git</li>
+            <li>GitHub</li>
+            <li>MediaPipe</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects">
+        <h2>My Projects</h2>
+
+        <article>
+            <h3>1. Indian Sign Language Recognition</h3>
+
+            <p>
+                An adaptive multimodal deep learning framework
+                designed to recognize continuous Indian Sign
+                Language gestures and translate them into text.
+            </p>
+
+            <p>
+                Technologies: Python, MediaPipe and Deep Learning.
+            </p>
+        </article>
+
+        <article>
+            <h3>2. SafeLens Browser Extension</h3>
+
+            <p>
+                A browser security project designed to help users
+                browse safely and identify potentially unsafe
+                online activities.
+            </p>
+
+            <p>
+                Technologies: HTML, JavaScript and Node.js.
+            </p>
+        </article>
+
+        <article>
+            <h3>3. Personal Portfolio Website</h3>
+
+            <p>
+                A personal website that presents my profile,
+                educational background, technical skills
+                and projects.
+            </p>
+
+            <p>
+                Technologies: HTML and CSS.
+            </p>
+        </article>
+    </section>
+
+    <hr>
+
+    <!-- EDUCATION SECTION -->
+    <section id="education">
+        <h2>Education</h2>
+
+        <h3>Bachelor of Engineering (B.E.)</h3>
+
+        <p>Computer Science and Engineering</p>
+
+        <p>Saveetha Engineering College</p>
+
+        <p>Currently Pursuing - III Year</p>
+
+        <p>Chennai, Tamil Nadu</p>
+    </section>
+
+    <hr>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+
+        <p>
+            I am always interested in connecting with people,
+            learning new technologies and exploring opportunities.
+        </p>
+
+        <p>
+            Email:
+            <a href="mailto:YOUR_EMAIL@gmail.com">
+                prethivirajan2306@gmail.com
+            </a>
+        </p>
+
+        <p>
+            GitHub:
+            <a href="https://github.com/Prethivirajan2306"
+               target="_blank">
+               https://github.com/Prethivirajan2306
+                
+            </a>
+        </p>
+
+        <p>
+            LinkedIn:
+            <a href="YOUR_LINKEDIN_URL" target="_blank">
+                My LinkedIn Profile
+            </a>
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2026 Prethivirajan. All Rights Reserved.</p>
+        <a href="#home">Back to Top</a>
+    </footer>
+
+</body>
+</html>
+
+
+```
 
 ## OUTPUT
+![alt text](image.png)
+
+
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
